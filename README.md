@@ -1,1 +1,1 @@
-# WrightBank
+# Wright Bank Corp
